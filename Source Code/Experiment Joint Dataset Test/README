@@ -1,6 +1,7 @@
 The Experiment_Audio_RF_Fusion.ipynb file is used to implement testing of RF field and acoustic field signals on the experimental dataset. 
 CNN, PINN and IINN testing can be performed by setting the loss weight. 
 '''''
+physics_orth = 0.0
 physics_delay = 0.0
 physics_amp = 0.0
 physics_wave = 0.0
