@@ -1,1 +1,3 @@
+The Publicdata_Compare_Audio_AudioNet.ipynb file is used to implement AudioNet testing of acoustic field signals on the public dataset for comparison.
+The Publicdata_Compare_RF_Resnet18.ipynb file is used to implement ResNet18 testing of RF field signals on the public dataset for comparison.
 
