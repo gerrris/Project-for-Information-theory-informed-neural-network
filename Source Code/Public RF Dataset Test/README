@@ -1,1 +1,10 @@
-
+The Publicdata_RF_Close_Set.ipynb file is used to implement closed-set testing of RF field signals on the public dataset. 
+CNN, IINN testing can be performed by setting the loss weights. 
+'''''
+physics_orth = 0.0
+'''''
+The Publicdata_RF_Open_Set.ipynb file is used to implement open-set testing of RF field signals on the public dataset. 
+CNN, IINN testing can be performed by setting the loss weights. 
+'''''
+physics_orth = 0.0
+'''''
