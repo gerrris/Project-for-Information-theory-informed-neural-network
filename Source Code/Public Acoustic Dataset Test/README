@@ -1,1 +1,10 @@
+The Experiment_Audio_loca_classify_4.ipynb file is used to implement testing of acoustic field signals on the experimental dataset. 
+CNN, PINN and IINN testing can be performed by setting the loss weights. 
+'''''
+physics_delay = 0.0
+physics_amp = 0.0
+physics_wave = 0.0
+physics_tdoa = 0.0
+physics_signal = 0.0
+'''''
 
